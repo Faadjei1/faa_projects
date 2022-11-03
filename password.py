@@ -18,3 +18,5 @@ for password in range(number_of_passwords):
   for c in range(length_of_passwords):
     passwords += random.choice(characters)
   print(passwords)
+
+# Some changes
